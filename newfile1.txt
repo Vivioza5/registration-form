@@ -1,0 +1,1 @@
+hello worldgit diff --staged our friens
